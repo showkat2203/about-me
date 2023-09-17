@@ -15,5 +15,5 @@ I'm a passionate programmer and software engineer on a mission to tackle complex
 - **Tools**: Git, Docker, Postman, AWS (EC2, S3, CloudWatch), GCP, Kafka, Jira
 
 ## Portfolio 🌐
-Learn more about me on my [portfolio](https://chy.io) and connect me on [LinkedIn](https://www.linkedin.com/in/sonnet-n/).
+Learn more about me on my [portfolio](https://chy.io) and please do connect with me on [LinkedIn](https://www.linkedin.com/in/sonnet-n/).
 
