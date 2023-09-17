@@ -14,7 +14,6 @@ I'm a passionate programmer and software engineer on a mission to tackle complex
 - **Frameworks**: Spring Boot, Django, ReactJS, FreeRTOS, Bootstrap
 - **Tools**: Git, Docker, Postman, AWS (EC2, S3, CloudWatch), GCP, Kafka, Jira
 
-## Problem Solver 🧩
+## Portfolio 🌐
+Learn more about me on my [portfolio](https://chy.io) and connect me on [LinkedIn](https://www.linkedin.com/in/sonnet-n/).
 
-- Solved 1300+ programming problems on platforms like LeetCode, UVa, Codeforces, and HackerRank
-- Strong background in Distributed Systems, Software Architecture, and Design Patterns
